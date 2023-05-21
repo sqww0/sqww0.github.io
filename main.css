@@ -1,11 +1,11 @@
 h2 {
-    color:darkgreen
+    color:rgb(0,100,0)
 }
 h1 {
     font-size: 18;
 }
 mark {
-    background-color: blanchedalmond;
+    background-color:rgb(255,235,205);
     color:rgb(13, 8, 1)
 }
 
