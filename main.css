@@ -1,18 +1,13 @@
 h2 {
-    color:rgb(0,100,0)
-}
-h1 {
-    font-size: 18;
+color : rgb(0,100,0);
 }
 mark {
-    background-color:rgb(255,235,205);
-    color:rgb(13, 8, 1)
+background-color : rgb(255,235,205);
+color : rgb(13, 8, 1);
 }
-
-h1{
-    color: rgb(38, 38, 1);
+h1 {
+color : rgb(38, 38, 1);
 }
-
 p {
-    font-size: 18;
+font-size : 18px;
 }
